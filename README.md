@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thisal Sooriyanayaka
 
 ## About Me
-🚀 Passionate software engineer exploring the transformative realms of Data Science and AI, crafting innovative technological solutions with code and creativity. I am Thisal Sooriyanayaka, a dedicated Software Engineer with a strong focus on Node.js and React.js. I have a keen interest in AI and Data Science, constantly exploring and learning new things in these fields.
+🚀 Passionate software engineer exploring the transformative realms of Data Science and AI, crafting innovative technological solutions with code and creativity. I am Thisal Sooriyanayaka, a dedicated Software Engineer with a strong focus on Node.js, React.js, and Flutter. I have a keen interest in AI and Data Science, constantly exploring and learning new things in these fields.
 
 ## Interests
 - 👀 I’m interested in developing innovative solutions using modern web technologies and AI.
