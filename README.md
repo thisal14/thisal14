@@ -1,6 +1,6 @@
 <div align="center">
 
-# Thisal Sooriyanayaka
+# THISAL SOORIYANAYAKA
 
 **Fullstack Engineer · AI/ML · Data Science**
 
