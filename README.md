@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-vinura124%40gmail.com-black?style=flat-square&logo=gmail)](mailto:vinura124@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-thisal14-181717?style=flat-square&logo=github)](https://github.com/thisal14)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thisal-sooriyanayaka-5913b4248/)
 
 </div>
 
