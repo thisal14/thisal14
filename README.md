@@ -7,8 +7,8 @@
 *Building intelligent systems — from pixel-perfect interfaces to production ML pipelines*
 
 [![Email](https://img.shields.io/badge/Email-vinura124%40gmail.com-black?style=flat-square&logo=gmail)](mailto:vinura124@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=firefox)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-thisal14-181717?style=flat-square&logo=github)](https://github.com/thisal14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a dedicated Software Engineer specializing in **Node.js**, **React.js**, and **Flutter**, with a growing focus on **AI** and **Data Science**. I enjoy working across the full stack — from crafting clean, responsive UIs to designing data-driven backend systems and training ML models.
+I'm a Software Engineer from 🇱🇰 **Sri Lanka**, specializing in **Node.js**, **React.js**, and **Flutter**, with a growing focus on **AI** and **Data Science**. I enjoy working across the full stack — from crafting clean, responsive UIs to building data-driven backend systems.
 
 I believe the best software sits at the intersection of engineering rigor and creative problem-solving. Whether it's a sleek web app or an intelligent data pipeline, I build with intention.
 
@@ -51,9 +51,9 @@ I believe the best software sits at the intersection of engineering rigor and cr
 
 <div align="center">
 
-![Thisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Thisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisal14&show_icons=true&theme=dark&hide_border=true&count_private=true)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisal14&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
