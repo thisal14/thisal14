@@ -69,5 +69,5 @@ I'm always open to interesting conversations, collaborations, or new opportuniti
 ---
 
 <div align="center">
-  <sub>⚡ "First, solve the problem. Then, write the code." — John Johnson</sub>
+
 </div>
