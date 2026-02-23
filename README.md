@@ -1,13 +1,72 @@
-# 👋 Hi, I'm Thisal Sooriyanayaka
+<div align="center">
 
-## About Me
-🚀 Passionate software engineer exploring the transformative realms of Data Science and AI, crafting innovative technological solutions with code and creativity. I am Thisal Sooriyanayaka, a dedicated Software Engineer with a strong focus on Node.js, React.js, and Flutter. I have a keen interest in AI and Data Science, constantly exploring and learning new things in these fields.
+# Thisal Sooriyanayaka
 
-## Interests
-- 👀 I’m interested in developing innovative solutions using modern web technologies and AI.
-- 🌱 I’m currently learning advanced data science techniques and deep learning.
-- 💞️ I’m looking to collaborate on open source projects and AI research.
-- 📫 How to reach me: [Email](mailto:vinura124@gmail.com) |
+**Fullstack Engineer · AI/ML · Data Science**
 
+*Building intelligent systems — from pixel-perfect interfaces to production ML pipelines*
 
+[![Email](https://img.shields.io/badge/Email-vinura124%40gmail.com-black?style=flat-square&logo=gmail)](mailto:vinura124@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=firefox)](https://yourportfolio.com)
 
+</div>
+
+---
+
+## About
+
+I'm a dedicated Software Engineer specializing in **Node.js**, **React.js**, and **Flutter**, with a growing focus on **AI** and **Data Science**. I enjoy working across the full stack — from crafting clean, responsive UIs to designing data-driven backend systems and training ML models.
+
+I believe the best software sits at the intersection of engineering rigor and creative problem-solving. Whether it's a sleek web app or an intelligent data pipeline, I build with intention.
+
+---
+
+## Tech Stack
+
+**Frontend**
+`React.js` `Flutter` `JavaScript` `HTML/CSS`
+
+**Backend**
+`Node.js` `Express` `REST APIs`
+
+**Data & AI/ML**
+`Python` `TensorFlow / PyTorch` `Pandas` `Scikit-learn` `Jupyter`
+
+**Tools & Platforms**
+`Git` `Docker` `Firebase` `PostgreSQL` `MongoDB`
+
+---
+
+## Currently
+
+- 🔭 &nbsp;Working on fullstack projects with integrated AI features
+- 🌱 &nbsp;Deepening my skills in **deep learning** and **MLOps**
+- 👯 &nbsp;Open to collaborating on **open source** and **AI research** projects
+- 💬 &nbsp;Ask me about React, Node.js, or getting started with ML
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Thisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm always open to interesting conversations, collaborations, or new opportunities.
+
+📬 &nbsp;**[vinura124@gmail.com](mailto:vinura124@gmail.com)**
+
+---
+
+<div align="center">
+  <sub>⚡ "First, solve the problem. Then, write the code." — John Johnson</sub>
+</div>
