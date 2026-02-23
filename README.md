@@ -51,9 +51,10 @@ I believe the best software sits at the intersection of engineering rigor and cr
 
 <div align="center">
 
-![Thisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisal14&show_icons=true&theme=dark&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisal14&layout=compact&theme=dark&hide_border=true)
+![Thisal's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisal14&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thisal14&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisal14&theme=github_dark)
 
 </div>
 
