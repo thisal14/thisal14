@@ -28,13 +28,13 @@ I believe the best software sits at the intersection of engineering rigor and cr
 `React.js` `Flutter` `JavaScript` `HTML/CSS`
 
 **Backend**
-`Node.js` `Express` `REST APIs` `Django`
+`Node.js` `Express` `REST APIs` `Django` `Spring Boot`
 
 **Data & AI/ML**
 `Python` `TensorFlow / PyTorch` `Pandas` `Scikit-learn` `Jupyter`
 
 **Tools & Platforms**
-`Git` `Docker` `Firebase` `PostgreSQL` `MongoDB`
+`Git` `Docker` `Firebase` `PostgreSQL` `MongoDB` `MySQL`
 
 ---
 
