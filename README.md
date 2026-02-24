@@ -25,7 +25,7 @@ I believe the best software sits at the intersection of engineering rigor and cr
 ## Tech Stack
 
 **Frontend**
-`React.js` `Flutter` `JavaScript` `HTML/CSS`
+`React.js` `Flutter` `JavaScript` `TypeScript` `HTML/CSS`
 
 **Backend**
 `Node.js` `Express` `REST APIs` `Django` `Spring Boot` `PHP`
