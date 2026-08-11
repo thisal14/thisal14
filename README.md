@@ -2,7 +2,7 @@
 
 # THISAL SOORIYANAYAKA
 
-**Fullstack Engineer · AI/ML · Data Science**
+**Software Engineer · AI/ML · Data Science**
 
 *Building intelligent systems — from pixel-perfect interfaces to production ML pipelines*
 
